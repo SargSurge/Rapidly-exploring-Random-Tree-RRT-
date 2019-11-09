@@ -253,5 +253,4 @@ canvas_height = 800
 canvas_width = 800
 master.after(1000, go, w)
 tk.mainloop()
-# w.create_line(0, y/2, canvas_width, y*2 )
-# master.update()
+
